@@ -1,0 +1,7 @@
+int float a float hah
+a_123  ajk 456 _
+double
+1.236
+double a = 1.235 ;
+@ 123.562.a 5689o
+double a=1.235;

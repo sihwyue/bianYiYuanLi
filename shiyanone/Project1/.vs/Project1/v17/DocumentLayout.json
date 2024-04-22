@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\inputBiao.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\inputBiao.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\input1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\input1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\idlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\idlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\uintlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\uintlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\ufdlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ufdlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\\u53C2\u80031.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\u53C2\u80031.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702E22A8-03E1-49A1-9880-5782F41B6BE5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cabout\\VS2022\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\input.txt",
+              "RelativeDocumentMoniker": "Project1\\input.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\input.txt",
+              "RelativeToolTip": "Project1\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T09:37:42.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xstring",
+              "DocumentMoniker": "D:\\Cabout\\VS2022\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ToolTip": "D:\\Cabout\\VS2022\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAiwJIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T08:38:33.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp",
+              "RelativeToolTip": "Project1\\\u9A8C\u8BC1\u79D1\u5B66\u8BA1\u6570\u6CD5.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T08:26:06.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputBiao.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\inputBiao.txt",
+              "RelativeDocumentMoniker": "Project1\\inputBiao.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\inputBiao.txt",
+              "RelativeToolTip": "Project1\\inputBiao.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T08:11:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u53C2\u80031.cpp",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\\u53C2\u80031.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u53C2\u80031.cpp",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\\u53C2\u80031.cpp",
+              "RelativeToolTip": "Project1\\\u53C2\u80031.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwJsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T08:03:54.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uintlist.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\uintlist.txt",
+              "RelativeDocumentMoniker": "Project1\\uintlist.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\uintlist.txt",
+              "RelativeToolTip": "Project1\\uintlist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T11:24:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ufdlist.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\ufdlist.txt",
+              "RelativeDocumentMoniker": "Project1\\ufdlist.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\ufdlist.txt",
+              "RelativeToolTip": "Project1\\ufdlist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T11:24:06.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "idlist.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\idlist.txt",
+              "RelativeDocumentMoniker": "Project1\\idlist.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\idlist.txt",
+              "RelativeToolTip": "Project1\\idlist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T09:37:25.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\output.txt",
+              "RelativeDocumentMoniker": "Project1\\output.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\output.txt",
+              "RelativeToolTip": "Project1\\output.txt",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T09:35:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input1.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\input1.txt",
+              "RelativeDocumentMoniker": "Project1\\input1.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\input1.txt",
+              "RelativeToolTip": "Project1\\input1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T09:13:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "one.cpp",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\one.cpp",
+              "RelativeDocumentMoniker": "Project1\\one.cpp",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanone\\Project1\\Project1\\one.cpp",
+              "RelativeToolTip": "Project1\\one.cpp",
+              "ViewState": "AQIAALQCAAAAAAAAAAAUwNECAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T09:04:13.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
