@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="one.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="参考1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -25,6 +22,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="验证科学计数法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="one能用的打的很全的.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="one符合老师要求.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
