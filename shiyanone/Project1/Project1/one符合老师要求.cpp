@@ -11,6 +11,7 @@ using namespace std;
 
 
 vector<string> typeChinese = { "保留字","用户标识符","无符号整数","无符号浮点数","操作符","无法识别的字符" };
+vector<string> typeEnglish = { "keyword","id","num_int","num_float","Operator","Invalid" };
 
 /**
  * 定义枚举类型.
@@ -174,7 +175,7 @@ int main() {
 	printId();
 	printUint();
 	printUfd();
-	printInvalid();
+	//printInvalid();
 	printOut();
 
 	//写入文件
@@ -365,7 +366,7 @@ void writeOut(ofstream& output_file)
 
 	for (const auto& ot : outputlist)
 	{
-		output_file << " ( " << ot.type << " , " << ot.value << " ) " << "\n";
+		output_file << " ( " << typeEnglish[ot.type].c_str() << " , " << ot.value << " ) " << "\n";
 
 	}
 	cout << "输出表已经写入到output.txt文件中" << endl;
@@ -433,11 +434,12 @@ void writeUfd(ofstream& ufdlist_file)
 void printOut()
 {
 	cout << "***********现在开始打印输出表***********" << endl;
-	cout << "说明：\nType=0表示保留字，Type=1表示用户标识符，Type=2表示无符号整数,\nType=3表示无符号浮点数，Type=4表示操作符，Type=5表示无法识别的字符" << endl;
-	cout << " ( Type ,Value\t)\t中文类型" << endl;
+	//cout << "说明：\nType=0表示保留字，Type=1表示用户标识符，Type=2表示无符号整数,\nType=3表示无符号浮点数，Type=4表示操作符，Type=5表示无法识别的字符" << endl;
+	cout << " ( Type ,\tValue\t)" << endl;
 	for (auto& ou : outputlist)
 	{
-		printf(" ( %1d ,%5s\t)\t%s\n", ou.type, ou.value.c_str(), typeChinese[ou.type].c_str());
+		printf(" ( %8s , %5s\t)\n", typeEnglish[ou.type].c_str(), ou.value.c_str());
+		//printf(" ( %1d ,%5s\t)\t%s\n", ou.type, ou.value.c_str(), typeChinese[ou.type].c_str());
 		//printf(" ( %5s,\t%3d )\t%s\n", ou.value.c_str(), ou.type, typeChinese[ou.type].c_str());
 
 		//printf(" ( %5s,\t%3d )\t\n", ou.value.c_str(), ou.type);
