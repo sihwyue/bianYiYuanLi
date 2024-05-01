@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|solutionrelative:shiyanTwo\\\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|solutionrelative:shiyanTwo\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|solutionrelative:shiyanTwo\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\input0.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|solutionrelative:shiyanTwo\\input0.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E35E132A-E86D-43A2-BA55-0C9CB366FBCC}|shiyanTwo\\shiyanTwo.vcxproj|solutionrelative:shiyanTwo\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\output.txt",
+              "RelativeDocumentMoniker": "shiyanTwo\\output.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\output.txt",
+              "RelativeToolTip": "shiyanTwo\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-01T02:22:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\input.txt",
+              "RelativeDocumentMoniker": "shiyanTwo\\input.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\input.txt",
+              "RelativeToolTip": "shiyanTwo\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-01T02:02:00.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp",
+              "RelativeDocumentMoniker": "shiyanTwo\\\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp",
+              "RelativeToolTip": "shiyanTwo\\\u8BED\u6CD5\u5206\u6790\u7A0B\u5E8F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T03:57:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input0.txt",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\input0.txt",
+              "RelativeDocumentMoniker": "shiyanTwo\\input0.txt",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\input0.txt",
+              "RelativeToolTip": "shiyanTwo\\input0.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-30T03:55:52.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "shiyanTwo\\\u6E90.cpp",
+              "ToolTip": "G:\\aaacodezui\\codeall\\vs--code--in\\bianyiyuanli\\shiyanTwo\\shiyanTwo\\\u6E90.cpp",
+              "RelativeToolTip": "shiyanTwo\\\u6E90.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAI4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T08:17:41.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

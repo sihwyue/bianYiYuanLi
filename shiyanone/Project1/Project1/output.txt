@@ -1,4 +1,3 @@
-( Type ,	Value )
  ( keyword , void ) 
  ( keyword , main ) 
  ( Operator , ( ) 
@@ -106,5 +105,5 @@
  ( id , j ) 
  ( Operator , && ) 
  ( id , k ) 
- ( Invalid , @ ) 
+ error()
  ( Operator , } ) 

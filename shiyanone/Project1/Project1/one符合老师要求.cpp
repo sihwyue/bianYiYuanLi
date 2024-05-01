@@ -11,14 +11,14 @@ using namespace std;
 
 
 vector<string> typeChinese = { "保留字","用户标识符","无符号整数","无符号浮点数","操作符","无法识别的字符" };
-vector<string> typeEnglish = { "keyword","id","num_int","num_float","Operator","Invalid" };
+vector<string> typeEnglish = { "keyword","id","num_int","num_float","Operator","error" };
 
 /**
  * 定义枚举类型.
  * */
 enum MyEnum
 {
-	kdType = 0, idType, numIntType, numFlType, OperType, InviType,
+	kdType = 0, idType, numIntType, numFlType, OperType, errorType,
 };
 /**
  * 定义保留字集合.
@@ -302,13 +302,13 @@ void addToUfdList(const string& value) {
  * \param value
  */
 void addToInvalidList(const string& value) {
-	addOutput(value, InviType);
+	addOutput(value, errorType);
 	for (const auto& invd : invalidlist) {
 		if (invd.value == value) {
 			return; // 已存在，不添加
 		}
 	}
-	invalidlist.emplace_back(uInvalid{ value, InviType, (int)value.size() });
+	invalidlist.emplace_back(uInvalid{ value, errorType, (int)value.size() });
 }
 
 /**
@@ -362,11 +362,21 @@ void addOutput(const string& value, const int& type) {
 void writeOut(ofstream& output_file)
 {
 	//output_file << "(Value,\tType)\n";
-	output_file << "( Type ,\tValue )\n";
+	//output_file << "( Type ,\tValue )\n";
+	//output_file<<"-----------------------------------"<<endl;
 
 	for (const auto& ot : outputlist)
 	{
-		output_file << " ( " << typeEnglish[ot.type].c_str() << " , " << ot.value << " ) " << "\n";
+		if (ot.type == errorType)
+		{
+			output_file<< " error()" << "\n";
+			//output_file << " ( " << typeEnglish[ot.type].c_str() << " , " << " ) " << "\n";//待修改
+		}
+		else
+		{
+			output_file << " ( " << typeEnglish[ot.type].c_str() << " , " << ot.value << " ) " << "\n";
+		}
+
 
 	}
 	cout << "输出表已经写入到output.txt文件中" << endl;
@@ -381,6 +391,7 @@ void writeOut(ofstream& output_file)
 void writeId(ofstream& idlist_file)
 {
 	idlist_file << "( Value ,\tType ,\tLength )\n";
+	idlist_file << "-----------------------------------" << endl;
 	for (const auto& id : idlist)
 	{
 		//idlist_file << " ( " << id.value << " , " << id.type << " , " << id.length << " ) " << "\n";
@@ -399,6 +410,7 @@ void writeId(ofstream& idlist_file)
 void writeUint(ofstream& uintlist_file)
 {
 	uintlist_file << "(Value,\tType,\tLength)\n";
+	uintlist_file << "-----------------------------------" << endl;
 	for (const auto& ui : uintlist)
 	{
 		uintlist_file << ui.value << "\n";
@@ -417,6 +429,7 @@ void writeUint(ofstream& uintlist_file)
 void writeUfd(ofstream& ufdlist_file)
 {
 	ufdlist_file << "(Value,\tType,\tLength)\n";
+	ufdlist_file << "-----------------------------------" << endl;
 	for (const auto& uf : ufdlist)
 	{
 		ufdlist_file << uf.value << "\n";
@@ -435,10 +448,19 @@ void printOut()
 {
 	cout << "***********现在开始打印输出表***********" << endl;
 	//cout << "说明：\nType=0表示保留字，Type=1表示用户标识符，Type=2表示无符号整数,\nType=3表示无符号浮点数，Type=4表示操作符，Type=5表示无法识别的字符" << endl;
-	cout << " ( Type ,\tValue\t)" << endl;
+	//cout << " ( Type ,\tValue\t)" << endl;
 	for (auto& ou : outputlist)
 	{
-		printf(" ( %8s , %5s\t)\n", typeEnglish[ou.type].c_str(), ou.value.c_str());
+		if (ou.type == errorType)
+		{
+			printf(" error()\n");
+			/*printf(" ( %s\t, %s\t)\n", typeEnglish[ou.type].c_str(), " ");*/
+		}
+		else
+		{
+			printf(" ( %s\t, %s\t)\n", typeEnglish[ou.type].c_str(), ou.value.c_str());
+		}
+
 		//printf(" ( %1d ,%5s\t)\t%s\n", ou.type, ou.value.c_str(), typeChinese[ou.type].c_str());
 		//printf(" ( %5s,\t%3d )\t%s\n", ou.value.c_str(), ou.type, typeChinese[ou.type].c_str());
 
